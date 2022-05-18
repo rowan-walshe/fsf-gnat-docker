@@ -1,3 +1,4 @@
+with "codewars_test";
 with "../challenge/challenge.gpr";
 
 project Harness is
